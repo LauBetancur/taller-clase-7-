@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:  border-box;
+}
+
+#contenedor {
+
+    height: 98vh;
+    width: 98vw;
+    margin: auto;
+    margin-top: 8px;
+    position: relative;
+}
+
+.contenedor__izqsup{
+
+
+    background-color:  rgb(255, 149, 149);
+    width: 200px;
+    height: 100px;
+
+}
+
+.contenedor__izqaba{
+
+
+    background-color:  rgb(251, 178, 60);
+    width: 200px;
+    height: 100px;
+    position: absolute;
+bottom: 0
+}
+
+.contenedor__izqder{
+
+position: absolute;
+    background-color:  rgb(249, 249, 169);
+    width: 200px;
+    height: 100px;
+right: 0;
+top: 0;
+
+}
+
+.contenedor__deraba{
+
+    position: absolute;
+        background-color:  rgb(201, 100, 255);
+        width: 200px;
+        height: 100px;
+    right: 0;
+    bottom: 0;  }
+
+    
+
+
+    #centro{
+
+background-color: aquamarine;
+width: 200px;
+height: 100px;
+position: absolute;
+top: 43%;
+left: 43%; }
+
+#Centro2{
+    background-color: grey;  
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top:48vh ;
+    left: 46vw;
+
+}
+
+
+ 
+
+
